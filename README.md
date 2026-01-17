@@ -1,5 +1,22 @@
 # roll_dice_app
 
+A simple Flutter application that simulates rolling a dice randomly.
+
+## Features
+- Random dice roll
+- Clean and simple UI
+- Stateless & Stateful widgets
+
+## Tech Stack
+- Flutter
+- Dart
+
+## What I Learned
+- Using setState for UI updates
+- Handling image assets
+- Widget rebuilding in Flutter
+
+
 A new Flutter project.
 
 ## Getting Started
